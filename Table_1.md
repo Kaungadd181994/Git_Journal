@@ -1,9 +1,9 @@
 ---
 created: 2026-07-03T01:29:12+06:30
-modified: 2026-07-03T01:32:12+06:30
+modified: 2026-07-03T01:32:59+06:30
 ---
 
-# Table
+# Table EWA
 
 # COMPLETE EWA SYSTEM - MASTER DATA DICTIONARY (v2.0)
 ### All Modules (1–14) | Product-Centric + Service-Type Pricing
